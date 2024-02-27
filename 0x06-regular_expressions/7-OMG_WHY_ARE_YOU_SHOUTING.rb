@@ -1,2 +1,4 @@
 #!/usr/bin/env ruby
-puts ARGV[0].scan(/[A-Z]*/).join
+# why are you shouting
+
+puts ARGV[0].scan(/[A-Z]/).join
